@@ -12,7 +12,8 @@ The EGG format supports the following features:
 See the Wikipedia article for more information:
 https://en.wikipedia.org/wiki/EGG_(file_format)
 
-# Links
+## Links
 - Source Code https://github.com/dterracino/UnEgg
 - Forked Code https://github.com/j2doll/UnEgg.VS2017.x64
+  - Using Visual Studio 2017 x64
 
