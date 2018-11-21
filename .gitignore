@@ -1,4 +1,6 @@
 # allow some files
+../Module/bin/UnEGG32.dll
+../Module/bin/UnEGG64.dll
 Module/bin/UnEGG32.dll
 Module/bin/UnEGG64.dll
 
@@ -13,6 +15,11 @@ Module/bin/UnEGG64.dll
 *.user
 *.userosscache
 *.sln.docstates
+*.filters
+*.users
+UpgradeLog.htm
+*.tlog
+*.lastbuildstate
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
@@ -28,6 +35,9 @@ bld/
 [Bb]in/
 [Oo]bj/
 [Ll]og/
+x64/
+x86/
+x32/
 
 # Visual Studio 2015/2017 cache/options directory
 .vs/
@@ -70,6 +80,7 @@ StyleCopReport.xml
 *.obj
 *.iobj
 *.pch
+*.idb
 *.pdb
 *.ipdb
 *.pgc
